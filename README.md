@@ -1,1 +1,1 @@
-# N-Queens-Problem-Project-5th-Sem-
+# N-Queens-Problem-Project using Java
